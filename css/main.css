@@ -1,0 +1,29 @@
+a:hover {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: red;
+}
+.navigation {
+    position:absolute;
+    top:0;
+    left:0;
+    bottom:0;
+    right:0;
+    height:50px;
+    width: 100%;
+    border: 1px black solid;
+    text-align:center;
+    display: inline-block;
+}
+
+li.navigation {
+  width: 100%;
+  border: 1px black solid;
+  text-align:center;
+  display: inline-block;
+
+}
+
+ul {
+  list-style-type: none;
+  }
